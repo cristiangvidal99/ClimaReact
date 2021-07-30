@@ -24,7 +24,7 @@ function App() {
       if(consult) {
         const appId = '08dc15791127cdd19a734206e94f9c22';
 
-        const url = `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${appId}`;
+        const url = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${appId}`;
 
         const response = await fetch(url);
         const result = await response.json();
