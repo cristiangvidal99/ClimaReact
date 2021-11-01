@@ -10,6 +10,6 @@ npm start
 ### Links:
 
 Mi linkedin: https://www.linkedin.com/in/cristiangabrielvidal99/
-Demo del proyecto: 
-openWeather: https://openweathermap.org/
+Demo del proyecto: https://jolly-heyrovsky-2398e6.netlify.app/
+API openWeather: https://openweathermap.org/
  
